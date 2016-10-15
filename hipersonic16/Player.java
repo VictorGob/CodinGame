@@ -1,4 +1,4 @@
-//package hipersonic16;
+package hipersonic16;
 
 import java.util.*;
 import java.awt.Point;
